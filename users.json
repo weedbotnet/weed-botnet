@@ -1,0 +1,123 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "name": "Sonu kumar kushwaha",
+      "link": "https://blog-minimal.netlify.app/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/sonu.jpg",
+      "about": "CS Student and web developer"
+    },
+    {
+      "id": 2,
+      "name": "Nihal Priyadarshi",
+      "link": "https://nihal-priyadarshi.github.io/Portfolio/",
+      "image": "https://nihal-priyadarshi.github.io/Portfolio/images/Nihal.jpg",
+      "about": " Web Developer | Programmer | Open Source Contributor"
+    },
+    {
+      "id": 3,
+      "name": "Aditya ",
+      "link": "https://adityakumar99.github.io/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/aditya.jpeg",
+      "about": "student, Intrested in computer science "
+    },
+    {
+      "id": 4,
+      "name": "Abhishek Singh",
+      "link": "https://abhishekit04.github.io/",
+      "image": "https://raw.githubusercontent.com/abhishekit04/abhishekit04.github.io/main/abhishek.jpg",
+      "about": "An IT student , Programming learner"
+    },
+    {
+      "id": 5,
+      "name": "Pranav Tyagi",
+      "link": "https://impranavtg.github.io/PizZato/",
+      "image": "https://i.ibb.co/FVSZT2t/83161133.jpg",
+      "about": "Web Enthusiast and a java programmer"
+    },
+    {
+      "id": 6,
+      "name": "Aaquib Ali",
+      "link": "https://aaquibali.github.io/Aaquib-Ali-Portfolio/",
+      "image": "https://user-images.githubusercontent.com/84700316/135716522-ded87b81-d5c9-4cb0-8984-8e8f97fd79be.jpg",
+      "about": "Developer | Improving the world w/ beeter education..."
+    },
+    {
+      "id": 7,
+      "name": "Chirag Agrawal",
+      "link": "https://chirgagrwl.netlify.app/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/Chirag.jpeg",
+      "about": "MLSA, Web Developer, community and Open Source Enthusiast"
+    },
+    {
+      "id": 8,
+      "name": "Ekta Arora",
+      "link": "https://ektaarora16.github.io/Ekta-Arora-Portfolio/",
+      "image": "https://user-images.githubusercontent.com/90129737/135722874-526e27ff-f82b-4e5c-a6b8-82533bbdaa2c.jpg",
+      "about": "Java Programmer | Open source contributor"
+    },
+    {
+      "id": 9,
+      "name": "Kshantu Syon",
+      "link": "https://github.com/syon001",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/syon.png",
+      "about": "web developer | programmer | Open source contributor"
+    },
+    {
+      "id": 10,
+      "name": "Abhishek Prasad",
+      "link": "https://github.com/abhishekprasad2384",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/abhishek.jpeg",
+      "about": "Java Programmer | Open source contributor"
+    },
+    {
+      "id": 11,
+      "name": "Mohasin Haque",
+      "link": "https://github.com/Mohasin-Haque",
+      "image": "https://user-images.githubusercontent.com/72180173/135742198-9e351e72-e004-408c-984c-de5e35e8b51b.jpg",
+      "about": "Web Developer | Open source contributor | Providing better education to world"
+    },
+    {
+      "id": 12,
+      "name": "Nikitha Reddy",
+      "link": "https://nikitha2309.github.io/Portfolio/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/Nikitha.jpg",
+      "about": "Full Stack Web Developer | Open Source Contributor | Quick Learner | MultiTasker"
+    },
+    {
+      "id": 13,
+      "name": "Anubhav",
+      "link": "https://the-awesome-anubhav-site.netlify.app/",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/anubhav.jpg",
+      "about": "Open Source and Tech Enthusiast | Computer Vision Enthusiast | Angel Hack Student Ambassador "
+    },
+    {
+      "id": 14,
+      "name": " Shrejal Singh ",
+      "link": " https://github.com/shrejal99/Portfolio ",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/Shrejal.jpg ",
+      "about": " React Developer | Graphic Designer"
+    },
+    {
+      "id": 15,
+      "name": " Suggu Sandeep ",
+      "link": " https://suggusandeep29.github.io/ ",
+      "image": "https://raw.githubusercontent.com/flyingsonu122/links-list/host/img/suggusandeep.jpg",
+      "about": " Full Stack Devoloper | Undergraduate "
+    },
+    {
+      "id": 16,
+      "name": " Tushar Gupta ",
+      "link": " https://github.com/Tushar-gupta-git ",
+      "image": " https://avatars.githubusercontent.com/u/75643596?v=4 ",
+      "about": "Web developer and a Pentester "
+    },
+    {
+      "id": 17,
+      "name": "MOHAMMAD SHAIBAZ QAISAR",
+      "link": "https://github.com/MOHAMMADSHAIBAZQAISAR",
+      "image": "https://avatars.githubusercontent.com/u/76586987?v=4",
+      "about": "Python,java,c++ and etc., programmer | Competitve programmer | Open Source contribuot | Learning Software Develophment"
+    }
+   ]
+  }
