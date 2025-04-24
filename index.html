@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plans</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', sans-serif;
+    }
+    body {
+      background: #0e0e15;
+      color: #fff;
+      padding: 40px;
+    }
+    .discord-link {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      color: #7289da;
+      font-size: 1rem;
+      font-weight: 600;
+    }
+    .discord-link img {
+      width: 24px;
+      height: 24px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    p.subtitle {
+      text-align: center;
+      color: #aaa;
+      margin-bottom: 50px;
+    }
+    .plans {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 30px;
+      max-width: 1200px;
+      margin: 0 auto 60px;
+    }
+    .plan {
+      background: #161622;
+      border-radius: 15px;
+      padding: 25px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      animation: fadeInUp 1s ease both;
+    }
+    .plan:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 0 25px rgba(0,0,0,0.5);
+    }
+    .plan h2 {
+      margin-bottom: 10px;
+    }
+    .price {
+      color: #6be1ff;
+      margin-bottom: 15px;
+      font-weight: bold;
+    }
+    .features {
+      list-style: none;
+      margin-bottom: 20px;
+    }
+    .features li {
+      margin-bottom: 8px;
+    }
+    .purchase-btn {
+      display: block;
+      text-align: center;
+      padding: 10px 0;
+      background: linear-gradient(to right, #8a5cf4, #3ddcff);
+      border-radius: 8px;
+      text-decoration: none;
+      color: #fff;
+      font-weight: bold;
+      transition: opacity 0.3s ease;
+    }
+    .purchase-btn:hover {
+      opacity: 0.8;
+    }
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .api-pricing {
+      max-width: 800px;
+      margin: 0 auto;
+      padding-top: 40px;
+      border-top: 1px solid #333;
+      animation: fadeInUp 1s ease both;
+    }
+    .api-pricing h3 {
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 1.8rem;
+    }
+    .api-pricing ul {
+      list-style: none;
+      padding: 0;
+    }
+    .api-pricing li {
+      background: #1c1c2a;
+      padding: 15px 20px;
+      border-radius: 10px;
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <a href="https://discord.gg/P2L" class="discord-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Logo">
+    Join our Discord
+  </a>
+
+  <h1>Purchase</h1>
+  <p class="subtitle">discord.gg/P2L | P2L BOTNET</p>
+  <div class="plans">
+    <div class="plan">
+      <h2>Basic</h2>
+      <div class="price">$29.99 / month</div>
+      <ul class="features">
+        <li>1 concurrent</li>
+        <li>60 seconds</li>
+        <li>45 cooldown</li>
+
+        
+      </ul>
+      <a href="https://canary.discord.com/channels/1191479887349960724/1276616405076410543" target="_blank" class="purchase-btn">Purchase</a>
+    </div>
+    <div class="plan">
+      <h2>Diamond</h2>
+      <div class="price">$34.99 / month</div>
+      <ul class="features">
+        <li>2 concurrents</li>
+        <li>300 seconds</li>
+        <li>30 cooldown</li>
+        <li>VIP</li>
+
+      </ul>
+      <a href="https://canary.discord.com/channels/1191479887349960724/1276616405076410543" target="_blank" class="purchase-btn">Purchase</a>
+    </div>
+    <div class="plan">
+      <h2>Business</h2>
+      <div class="price">$49.99 / month</div>
+      <ul class="features">
+        <li>6 concurrents</li>
+        <li>400 seconds</li>
+        <li>20 cooldown</li>
+        <li>VIP</li>
+        <li>Botnet Access</li>
+      </ul>
+      <a href="https://canary.discord.com/channels/1191479887349960724/1276616405076410543" target="_blank" class="purchase-btn">Purchase</a>
+    </div>
+  </div>
+
+  <div class="api-pricing">
+    <h3>API Access Pricing</h3>
+    <ul>
+      <li><span>Basic API Access</span> <strong>$24.99 / month</strong></li>
+      <li><span>Diamond API Access</span> <strong>$34.99 / month</strong></li>
+      <li><span>Business API Access</span> <strong>$44.99 / month</strong></li>
+      <li><span>Botnet API Access</span> <strong>$149.99 / Lifetime</strong></li>
+    </ul>
+  </div>
+</body>
+</html>
